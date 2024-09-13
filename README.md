@@ -3,7 +3,6 @@
 Recent graduate from Rutgers School of Engineering with a degree in Electrical & Computer Engineering. Passionate about full-stack web development, artificial intelligence/machine learning, design, and creative problem-solving.
 
 ## 🚀 About Me
-* 🎓 Electrical & Computer Engineering graduate from Rutgers School of Engineering
 * 💻 Full-stack web developer with an interest in both frontend and backend technologies
 * 🎨 Enthusiast for good design and user experiences (also a part-time artist)
 * 🧠 Always eager to tackle challenging problems and learn new skills
