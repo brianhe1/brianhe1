@@ -22,10 +22,6 @@ Actively seeking a software engineering role where I can be challenged, learn fr
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
 
-## 🎮 My Hobbies
-
-## 📫 My Socials
-
 <!--
 **brianhe1/brianhe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
