@@ -1,6 +1,6 @@
 ## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="wave">&nbsp;`Hello World`, I'm Brian
 
-Recent graduate from Rutgers School of Engineering with a degree in Electrical & Computer Engineering. Passionate about full-stack web development, artificial intelligence/machine learning, design, and creative problem-solving.
+Recent graduate from Rutgers School of Engineering with a degree in Electrical & Computer Engineering. Passionate about full-stack web development, artificial intelligence & machine learning, and creative problem-solving.
 
 ## 🚀 About Me
 * 💻 Full-stack web developer with an equal love for sleek frontends and robust backends
