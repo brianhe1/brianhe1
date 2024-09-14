@@ -4,7 +4,6 @@ Recent graduate from Rutgers School of Engineering with a degree in Electrical &
 
 ## 🚀 About Me
 * 💻 Full-stack web developer with an equal love for sleek frontends and robust backends
-* 🤖 AI/ML enthusiast, always excited to make machines a bit smarter
 * 🎨 Enthusiast for good design and user experiences
 * 🧠 Always eager to tackle challenging problems and learn new skills
 * 🤓 When not coding, you'll probably find me playing Genshin Impact or Brawl Stars on my iPad
