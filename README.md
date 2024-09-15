@@ -3,7 +3,7 @@
 Recent graduate from Rutgers School of Engineering with a degree in Electrical & Computer Engineering. Passionate about full-stack web development, artificial intelligence & machine learning, and creative problem-solving.
 
 ## 🚀 About Me
-* 💻 Full-stack web developer with an equal love for sleek frontends and robust backends
+* 🧑🏻‍💻 Full-stack web developer with an equal love for sleek frontends and robust backends
 * 🧠 Always eager to tackle challenging problems and learn new skills
 * 🎨 Enthusiast for good design and user experiences
 * 🤓 When not coding, you'll likely find me playing Genshin Impact or Brawl Stars on my iPad
@@ -11,7 +11,7 @@ Recent graduate from Rutgers School of Engineering with a degree in Electrical &
 ## 🔭 My Current Focus
 Actively seeking a software engineering role where I can be challenged, learn from experienced mentors and peers, and explore exciting growth opportunities!
 
-## 🧑🏻‍💻 My Tech Stack
+## 🧰 My Toolbox
 <!-- icon src links from https://devicon.dev/ !-->
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50" height="50"/>&nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;
