@@ -34,7 +34,6 @@ Actively seeking a software engineering role where I can be challenged, learn fr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="AndroidStudio" width="50" height="50"/> &nbsp;
 <!-- for badges instead, refer to this repo: https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#markdown-badges -->
 
 <!-- refer to this repo: https://github.com/anuraghazra/github-readme-stats !-->
